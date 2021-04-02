@@ -1,0 +1,34 @@
+           [ {
+               "CS_CARRIERID": "BY000007",
+               "CS_GUID": "e3fa547e-dc66-46cb-b23c-432883c6320f",
+               "ED_PRIORITY": "5",
+               "RQ_DOCGUID": "BC02A110-4BA7-3225-E053-070A700A7E20",
+               "RQ_ED_TYPE": "ЭПИ",
+               "RQ_ID": "2514429",
+               "RQ_MSGGUID": "BC02A110-4BA8-3225-E053-070A700A7E20",
+               "RQ_PTOCODE": "09103",
+               "RQ_ST_ID": "0"
+            },
+            {
+               "CS_CARRIERID": "BY002337",
+               "CS_GUID": "14BACF22-3993-4011-9CBA-EDAD90AD2E09",
+               "ED_PRIORITY": "5",
+               "RQ_DOCGUID": "BDBB7EDF-DC33-1718-E053-070A700A0DCC",
+               "RQ_ED_TYPE": "ЭПИ",
+               "RQ_ID": "2514437",
+               "RQ_MSGGUID": "BDBB7EDF-DC34-1718-E053-070A700A0DCC",
+               "RQ_PTOCODE": "99999",
+               "RQ_ST_ID": "0"
+            },
+            {
+               "CS_CARRIERID": "BY000007",
+               "CS_GUID": "e3fa547e-dc66-46cb-b23c-432883c6320f",
+               "ED_PRIORITY": "9",
+               "RQ_DOCGUID": "BC6CE064-6101-5B6E-E053-D303700AEE45",
+               "RQ_ED_TYPE": "ЭСД",
+               "RQ_ID": "1",
+               "RQ_MSGGUID": "4D612BC0-2A75-E3DC-E053-070A700A8AE3",
+               "RQ_PTOCODE": "103",
+               "RQ_ST_ID": "0"
+            }
+         ]
