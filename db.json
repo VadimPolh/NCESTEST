@@ -1,4 +1,6 @@
-           [ {
+{          
+           "data" : [
+           {
                "CS_CARRIERID": "BY000007",
                "CS_GUID": "e3fa547e-dc66-46cb-b23c-432883c6320f",
                "ED_PRIORITY": "5",
@@ -32,3 +34,4 @@
                "RQ_ST_ID": "0"
             }
          ]
+}
