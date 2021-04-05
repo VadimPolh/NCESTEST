@@ -1,4 +1,5 @@
-
+     
+           "RQ_INFO" : [
            {
                "CS_CARRIERID": "BY000007",
                "CS_GUID": "e3fa547e-dc66-46cb-b23c-432883c6320f",
@@ -32,4 +33,5 @@
                "RQ_PTOCODE": "103",
                "RQ_ST_ID": "0"
             }
+         ]
 
