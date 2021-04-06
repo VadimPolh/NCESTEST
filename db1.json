@@ -1,0 +1,211 @@
+{
+      "errId" : "0"
+      "FL_DATA" : "<?xml version="1.0"?>
+    <PI>
+      <Declarant ID="D906DCFF-C0A8-3801-01B7-EB546354DB78">
+        <atpi:AutoPreliminaryInformation xmlns:csdo="urn:EEC:M:SimpleDataObjects:v0.4.8" xmlns:casdo="urn:EEC:M:CA:SimpleDataObjects:v1.4.9" xmlns:cacdo="urn:EEC:M:CA:ComplexDataObjects:v1.4.9" xmlns:ccdo="urn:EEC:M:ComplexDataObjects:v0.4.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atpi="urn:EEC:R:042:AutoPreliminaryInformation:v1.0.0" xsi:schemaLocation="urn:EEC:R:042:AutoPreliminaryInformation:v1.0.0">
+          <csdo:EDocCode>R.042</csdo:EDocCode>
+          <csdo:EDocId>D906DCFF-C0A8-3801-01B7-EB546354DB78</csdo:EDocId>
+          <csdo:EDocDateTime>2021-02-25T00:00:00</csdo:EDocDateTime>
+          <casdo:EDocIndicatorCode>ОО</casdo:EDocIndicatorCode>
+          <casdo:PreliminaryInformationUsageCode>01</casdo:PreliminaryInformationUsageCode>
+          <casdo:PreliminaryInformationUsageCode>06</casdo:PreliminaryInformationUsageCode>
+          <casdo:PreliminaryInformationUsageCode>14</casdo:PreliminaryInformationUsageCode>
+          <cacdo:PIATEntryCheckPointDetails>
+            <csdo:CustomsOfficeCode>09103</csdo:CustomsOfficeCode>
+            <csdo:BorderCheckpointName>КОЗЛОВИЧИ</csdo:BorderCheckpointName>
+          </cacdo:PIATEntryCheckPointDetails>
+          <cacdo:PIDeclarantDetails>
+            <csdo:SubjectBriefName>РУП "БЕЛТАМОЖСЕРВИС"</csdo:SubjectBriefName>
+            <csdo:TaxpayerId>101561144</csdo:TaxpayerId>
+            <ccdo:SubjectAddressDetails>
+              <csdo:AddressKindCode>1</csdo:AddressKindCode>
+              <csdo:UnifiedCountryCode codeListId="2021">BY</csdo:UnifiedCountryCode>
+              <csdo:RegionName>МИНСКАЯ ОБЛ.</csdo:RegionName>
+              <csdo:CityName>МИНСКИЙ Р-Н ЩОМЫСЛИЦКИЙ С/С</csdo:CityName>
+              <csdo:StreetName>17-Й КМ АВТОДОРОГИ МИНСК-ДЗЕРЖИНСК, АБК,КАБ.75</csdo:StreetName>
+              <csdo:BuildingNumberId>333</csdo:BuildingNumberId>
+              <csdo:RoomNumberId>6</csdo:RoomNumberId>
+            </ccdo:SubjectAddressDetails>
+            <cacdo:RegisterDocumentIdDetails>
+              <casdo:RegistrationNumberId>ТА-0600/0000128</casdo:RegistrationNumberId>
+            </cacdo:RegisterDocumentIdDetails>
+            <casdo:EqualIndicator>0</casdo:EqualIndicator>
+          </cacdo:PIDeclarantDetails>
+          <cacdo:PIATBorderTransportDetails>
+            <csdo:UnifiedTransportModeCode codeListId="2004">31</csdo:UnifiedTransportModeCode>
+            <casdo:TransportMeansQuantity>2</casdo:TransportMeansQuantity>
+            <casdo:ContainerIndicator>0</casdo:ContainerIndicator>
+            <csdo:TransportMeansRegId countryCodeListId="2021" countryCode="BY">AM3896-7</csdo:TransportMeansRegId>
+            <csdo:VehicleId>WMA06XZZ9CM605370</csdo:VehicleId>
+            <casdo:TransportTypeCode codeListId="2024">307</casdo:TransportTypeCode>
+            <csdo:VehicleMakeCode codeListId="2025">394</csdo:VehicleMakeCode>
+            <cacdo:TrailerDetails>
+              <csdo:TransportMeansRegId countryCodeListId="2021" countryCode="BY">A0574B-7</csdo:TransportMeansRegId>
+              <csdo:VehicleId>WSM00000003162210</csdo:VehicleId>
+              <casdo:TransportTypeCode codeListId="2024">319</casdo:TransportTypeCode>
+              <csdo:VehicleMakeCode codeListId="2025">550</csdo:VehicleMakeCode>
+            </cacdo:TrailerDetails>
+          </cacdo:PIATBorderTransportDetails>
+          <cacdo:PIATMainConsignmentDetails>
+            <casdo:TIRCarnetIndicator>0</casdo:TIRCarnetIndicator>
+            <cacdo:TIRCarnetIdDetails>
+              <casdo:TIRSeriesId>XK</casdo:TIRSeriesId>
+              <casdo:TIRId>82701092</casdo:TIRId>
+              <casdo:TIRPageOrdinal>3</casdo:TIRPageOrdinal>
+              <casdo:TIRHolderId>BLR/034/0021</casdo:TIRHolderId>
+            </cacdo:TIRCarnetIdDetails>
+            <casdo:DeclarationKindCode>ТТ</casdo:DeclarationKindCode>
+            <casdo:TransitProcedureCode>ИМ</casdo:TransitProcedureCode>
+            <casdo:TransitFeatureCode>МПО</casdo:TransitFeatureCode>
+            <casdo:GoodsQuantity>30</casdo:GoodsQuantity>
+            <casdo:CargoQuantity>17</casdo:CargoQuantity>
+            <cacdo:SealDetails>
+              <casdo:SealQuantity>4</casdo:SealQuantity>
+              <csdo:SealId>123;345;456;567</csdo:SealId>
+            </cacdo:SealDetails>
+            <cacdo:PITransitTransportMeansDetails>
+              <casdo:EqualIndicator>1</casdo:EqualIndicator>
+              <csdo:UnifiedTransportModeCode codeListId="2004">31</csdo:UnifiedTransportModeCode>
+              <casdo:TransportMeansQuantity>2</casdo:TransportMeansQuantity>
+              <cacdo:TransportMeansRegistrationIdDetails>
+                <csdo:TransportMeansRegId countryCodeListId="2021" countryCode="BY">AM3896-7</csdo:TransportMeansRegId>
+                <csdo:DocId>MAA1397289</csdo:DocId>
+                <csdo:VehicleId>WMA06XZZ9CM605370</csdo:VehicleId>
+                <casdo:TransportTypeCode codeListId="2024">307</casdo:TransportTypeCode>
+                <csdo:VehicleMakeCode codeListId="2025">394</csdo:VehicleMakeCode>
+              </cacdo:TransportMeansRegistrationIdDetails>
+              <cacdo:TransportMeansRegistrationIdDetails>
+                <csdo:TransportMeansRegId countryCodeListId="2021" countryCode="BY">A0574B-7</csdo:TransportMeansRegId>
+                <csdo:DocId>MAA1782433</csdo:DocId>
+                <csdo:VehicleId>WSM00000003162210</csdo:VehicleId>
+                <casdo:TransportTypeCode codeListId="2024">319</casdo:TransportTypeCode>
+                <csdo:VehicleMakeCode codeListId="2025">550</csdo:VehicleMakeCode>
+              </cacdo:TransportMeansRegistrationIdDetails>
+            </cacdo:PITransitTransportMeansDetails>
+            <cacdo:TransitTerminationDetails>
+              <ccdo:CustomsOfficeDetails>
+                <csdo:CustomsOfficeCode>06611</csdo:CustomsOfficeCode>
+                <csdo:CustomsOfficeName>БЕЛКУЛЬТТОРГ</csdo:CustomsOfficeName>
+              </ccdo:CustomsOfficeDetails>
+            </cacdo:TransitTerminationDetails>
+            <cacdo:PIATConsignmentDetails>
+              <cacdo:PIATTransportDocumentDetails>
+                <csdo:DocKindCode codeListId="2009">02015</csdo:DocKindCode>
+                <csdo:DocId>B/N</csdo:DocId>
+                <csdo:DocCreationDate>2019-07-04</csdo:DocCreationDate>
+              </cacdo:PIATTransportDocumentDetails>
+              <casdo:CargoQuantity>0</casdo:CargoQuantity>
+              <cacdo:DepartureCountryDetails>
+                <casdo:CACountryCode codeListId="2021">DE</casdo:CACountryCode>
+                <casdo:ShortCountryName>ГЕРМАНИЯ</casdo:ShortCountryName>
+              </cacdo:DepartureCountryDetails>
+              <cacdo:DestinationCountryDetails>
+                <casdo:CACountryCode codeListId="2021">BY</casdo:CACountryCode>
+                <casdo:ShortCountryName>БЕЛАРУСЬ</casdo:ShortCountryName>
+              </cacdo:DestinationCountryDetails>
+              <casdo:CAInvoiceValueAmount currencyCodeListId="2022" currencyCode="EUR">27806.43</casdo:CAInvoiceValueAmount>
+              <csdo:UnifiedGrossMassMeasure measurementUnitCodeListId="2016" measurementUnitCode="166">7743.2</csdo:UnifiedGrossMassMeasure>
+              <cacdo:PIATConsignorDetails>
+                <csdo:SubjectBriefName>WIRTGEN GMBH</csdo:SubjectBriefName>
+                <ccdo:SubjectAddressDetails>
+                  <csdo:AddressKindCode>1</csdo:AddressKindCode>
+                  <csdo:UnifiedCountryCode codeListId="2021">DE</csdo:UnifiedCountryCode>
+                  <csdo:CityName>WINDHAGEN</csdo:CityName>
+                  <csdo:StreetName>RHEINHARD-WIRTGEN-STRASSE 2</csdo:StreetName>
+                </ccdo:SubjectAddressDetails>
+              </cacdo:PIATConsignorDetails>
+              <cacdo:PIATConsigneeDetails>
+                <csdo:SubjectBriefName>РУП "БЕЛТАМОЖСЕРВИС"</csdo:SubjectBriefName>
+                <csdo:TaxpayerId>101561144</csdo:TaxpayerId>
+                <ccdo:SubjectAddressDetails>
+                  <csdo:AddressKindCode>1</csdo:AddressKindCode>
+                  <csdo:UnifiedCountryCode codeListId="2021">BY</csdo:UnifiedCountryCode>
+                  <csdo:RegionName>МИНСКАЯ ОБЛ.</csdo:RegionName>
+                  <csdo:CityName>МИНСКИЙ Р-Н ЩОМЫСЛИЦКИЙ С/С</csdo:CityName>
+                  <csdo:StreetName>17-Й КМ АВТОДОРОГИ МИНСК-ДЗЕРЖИНСК, АБК,КАБ.75</csdo:StreetName>
+                  <csdo:BuildingNumberId>333</csdo:BuildingNumberId>
+                  <csdo:RoomNumberId>6</csdo:RoomNumberId>
+                </ccdo:SubjectAddressDetails>
+              </cacdo:PIATConsigneeDetails>
+              <cacdo:PIATConsignmentItemDetails>
+                <casdo:ConsignmentItemOrdinal>1</casdo:ConsignmentItemOrdinal>
+                <csdo:CommodityCode>8431390000</csdo:CommodityCode>
+                <casdo:GoodsDescriptionText>РОЛИК ГИРЛЯНДОВЫЙ</casdo:GoodsDescriptionText>
+                <csdo:UnifiedGrossMassMeasure measurementUnitCodeListId="2016" measurementUnitCode="166">140.5</csdo:UnifiedGrossMassMeasure>
+                <cacdo:CargoPackagePalletDetails>
+                  <casdo:PackageAvailabilityCode>1</casdo:PackageAvailabilityCode>
+                  <casdo:CargoQuantity>0</casdo:CargoQuantity>
+                  <cacdo:PackagePalletDetails>
+                    <casdo:CargoPackageInfoKindCode>0</casdo:CargoPackageInfoKindCode>
+                    <csdo:PackageKindCode codeListId="2013">PK</csdo:PackageKindCode>
+                    <csdo:PackageQuantity>0</csdo:PackageQuantity>
+                  </cacdo:PackagePalletDetails>
+                </cacdo:CargoPackagePalletDetails>
+                <casdo:CAValueAmount currencyCodeListId="2022" currencyCode="EUR">1188.5</casdo:CAValueAmount>
+              </cacdo:PIATConsignmentItemDetails>
+            </cacdo:PIATConsignmentDetails>
+            <cacdo:TransitGuaranteeDetails>
+              <casdo:TransitGuaranteeMeasureCode codeListId="2017">00</casdo:TransitGuaranteeMeasureCode>
+              <casdo:GuaranteeAmount currencyCodeListId="2022" currencyCode="BYN">0</casdo:GuaranteeAmount>
+            </cacdo:TransitGuaranteeDetails>
+            <cacdo:PITransitDeclarantDetails>
+              <csdo:SubjectBriefName>РУП "БЕЛТАМОЖСЕРВИС"</csdo:SubjectBriefName>
+              <csdo:TaxpayerId>101561144</csdo:TaxpayerId>
+              <ccdo:SubjectAddressDetails>
+                <csdo:AddressKindCode>1</csdo:AddressKindCode>
+                <csdo:UnifiedCountryCode codeListId="2021">BY</csdo:UnifiedCountryCode>
+                <csdo:RegionName>МИНСКАЯ ОБЛ.</csdo:RegionName>
+                <csdo:CityName>МИНСКИЙ Р-Н ЩОМЫСЛИЦКИЙ С/С</csdo:CityName>
+                <csdo:StreetName>17-Й КМ АВТОДОРОГИ МИНСК-ДЗЕРЖИНСК, АБК,КАБ.75</csdo:StreetName>
+                <csdo:BuildingNumberId>333</csdo:BuildingNumberId>
+                <csdo:RoomNumberId>6</csdo:RoomNumberId>
+              </ccdo:SubjectAddressDetails>
+              <casdo:EqualIndicator>1</casdo:EqualIndicator>
+            </cacdo:PITransitDeclarantDetails>
+            <cacdo:PIUnionCarrierDetails>
+              <csdo:SubjectBriefName>РУП "БЕЛТАМОЖСЕРВИС"</csdo:SubjectBriefName>
+              <csdo:TaxpayerId>101561144</csdo:TaxpayerId>
+              <ccdo:SubjectAddressDetails>
+                <csdo:AddressKindCode>1</csdo:AddressKindCode>
+                <csdo:UnifiedCountryCode codeListId="2021">BY</csdo:UnifiedCountryCode>
+                <csdo:RegionName>МИНСКАЯ ОБЛ.</csdo:RegionName>
+                <csdo:CityName>МИНСКИЙ Р-Н ЩОМЫСЛИЦКИЙ С/С</csdo:CityName>
+                <csdo:StreetName>17-Й КМ АВТОДОРОГИ МИНСК-ДЗЕРЖИНСК, АБК,КАБ.75</csdo:StreetName>
+                <csdo:BuildingNumberId>333</csdo:BuildingNumberId>
+                <csdo:RoomNumberId>6</csdo:RoomNumberId>
+              </ccdo:SubjectAddressDetails>
+              <cacdo:CarrierRepresentativeDetails>
+                <ccdo:FullNameDetails>
+                  <csdo:FirstName>А.</csdo:FirstName>
+                  <csdo:MiddleName>К.</csdo:MiddleName>
+                  <csdo:LastName>ПЕКАРЧИК1</csdo:LastName>
+                </ccdo:FullNameDetails>
+                <csdo:PositionName>ВОДИТЕЛЬ</csdo:PositionName>
+                <ccdo:IdentityDocV3Details>
+                  <csdo:UnifiedCountryCode codeListId="2021">BY</csdo:UnifiedCountryCode>
+                  <csdo:IdentityDocKindCode>BY01001</csdo:IdentityDocKindCode>
+                  <csdo:DocId>MC2781036</csdo:DocId>
+                  <csdo:DocCreationDate>2015-10-30</csdo:DocCreationDate>
+                </ccdo:IdentityDocV3Details>
+                <casdo:RoleCode>1</casdo:RoleCode>
+              </cacdo:CarrierRepresentativeDetails>
+            </cacdo:PIUnionCarrierDetails>
+          </cacdo:PIATMainConsignmentDetails>
+          <cacdo:PIATCarrierDetails>
+            <csdo:SubjectBriefName>РУП "БЕЛТАМОЖСЕРВИС"</csdo:SubjectBriefName>
+            <csdo:TaxpayerId>101561144</csdo:TaxpayerId>
+            <ccdo:SubjectAddressDetails>
+              <csdo:AddressKindCode>1</csdo:AddressKindCode>
+              <csdo:UnifiedCountryCode codeListId="2021">BY</csdo:UnifiedCountryCode>
+              <csdo:RegionName>МИНСКАЯ ОБЛ.</csdo:RegionName>
+              <csdo:CityName>МИНСКИЙ Р-Н ЩОМЫСЛИЦКИЙ С/С</csdo:CityName>
+              <csdo:StreetName>17-Й КМ АВТОДОРОГИ МИНСК-ДЗЕРЖИНСК, АБК,КАБ.75</csdo:StreetName>
+              <csdo:BuildingNumberId>333</csdo:BuildingNumberId>
+              <csdo:RoomNumberId>6</csdo:RoomNumberId>
+            </ccdo:SubjectAddressDetails>
+          </cacdo:PIATCarrierDetails>
+        </atpi:AutoPreliminaryInformation>
+      </Declarant>
+    </PI>"
+}
