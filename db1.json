@@ -1,5 +1,4 @@
 {
-     "data" : [
       "errId": "0",
       "FL_DATA": "<?xml version="1.0"?>
     <PI>
@@ -209,5 +208,4 @@
         </atpi:AutoPreliminaryInformation>
       </Declarant>
     </PI>"
-   ]
 }
