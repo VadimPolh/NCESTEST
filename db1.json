@@ -1,7 +1,7 @@
 {
      "data" : [
-      "errId" : "0"
-      "FL_DATA" : "<?xml version="1.0"?>
+      "errId": "0",
+      "FL_DATA": "<?xml version="1.0"?>
     <PI>
       <Declarant ID="D906DCFF-C0A8-3801-01B7-EB546354DB78">
         <atpi:AutoPreliminaryInformation xmlns:csdo="urn:EEC:M:SimpleDataObjects:v0.4.8" xmlns:casdo="urn:EEC:M:CA:SimpleDataObjects:v1.4.9" xmlns:cacdo="urn:EEC:M:CA:ComplexDataObjects:v1.4.9" xmlns:ccdo="urn:EEC:M:ComplexDataObjects:v0.4.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:atpi="urn:EEC:R:042:AutoPreliminaryInformation:v1.0.0" xsi:schemaLocation="urn:EEC:R:042:AutoPreliminaryInformation:v1.0.0">
